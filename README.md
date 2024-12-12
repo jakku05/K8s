@@ -6,3 +6,6 @@ https://docs.google.com/document/d/1g0Aar1s526i2gWIQw7Kp0cKvUCiWlYaFtRFSL5c02LY/
 
 kubernetes officaial  doc 
 https://kubernetes.io/docs/reference/kubectl/quick-reference/
+
+cheat sheet 
+https://docs.google.com/document/d/1tRae7JQ1HJ_uo3WqleZmfYgdn-N9bDXIcH00xshxzkY/edit?tab=t.0#heading=h.cplz6gsv01tr
