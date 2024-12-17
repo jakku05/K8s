@@ -9,5 +9,4 @@ https://kubernetes.io/docs/reference/kubectl/quick-reference/
 cheat sheet 
 https://docs.google.com/document/d/1tRae7JQ1HJ_uo3WqleZmfYgdn-N9bDXIcH00xshxzkY/edit?tab=t.0#heading=h.cplz6gsv01tr
 
-Understanding Kubernetes Deployment YAML File and Its Fields
-https://docs.google.com/document/d/1k2GKtm2q2pFVBoMsJXcKb3oVYwdtvfzPxdc_LfXNCNk/edit?tab=t.0
+Understanding Kubernetes Deployment YAML File and Its Fields https://docs.google.com/document/d/1k2GKtm2q2pFVBoMsJXcKb3oVYwdtvfzPxdc_LfXNCNk/edit?tab=t.0
